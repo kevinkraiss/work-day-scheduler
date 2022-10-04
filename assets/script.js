@@ -13,6 +13,7 @@ var future
 // creates timeblock elements
 $('.time-block').clone().appendTo('.container')
 $('.time-block').clone().appendTo('.container')
+$('.time-block').clone().appendTo('.container')
 
 
 // color codes time blocks based on past present or future
